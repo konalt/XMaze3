@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/konalt/XMaze3/issues"
   },
-  "homepage": "https://github.com/konalt/XMaze3#readme"
+  "homepage": "https://github.com/konalt/XMaze3#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
 }
