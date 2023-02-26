@@ -35,4 +35,7 @@ function gameLoop() {
     setTimeout(gameLoop, 1000 / 60);
 }
 
+process.stdin.setRawMode(true);
+process.stdin.resume();
+
 gameLoop();
